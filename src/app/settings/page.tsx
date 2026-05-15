@@ -39,7 +39,7 @@ export default function SettingsPage() {
         </div>
 
         <Link
-          href="https://github.com/Data-Tamers-Ltd/aidhd"
+          href="https://github.com/smurph-001/aidhd"
           target="_blank"
           className="text-center text-sm text-blue-500 hover:text-blue-600 py-4"
         >

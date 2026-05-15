@@ -16,7 +16,7 @@ Capture thoughts by voice or text. Claude categorises them, extracts tasks, and 
 
 1. Clone and install:
    ```bash
-   git clone https://github.com/Data-Tamers-Ltd/aidhd.git
+   git clone https://github.com/smurph-001/aidhd.git
    cd aidhd
    npm install
    ```
